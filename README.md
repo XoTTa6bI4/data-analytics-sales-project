@@ -7,12 +7,15 @@ The goal was to clean, merge, analyze, and visualize the dataset to extract valu
 
 ## 📁 1. Project Structure
 
-📦 data-analytics-sales-project  
-├── Module_Task.ipynb  
-├── README.md  
-├── events.csv  
-├── products.csv  
-└── countries.csv
+data-analytics-sales-project/
+│
+├── data/
+│   ├── events.csv
+│   ├── products.csv
+│   └── countries.csv
+│
+├── Module_Task.ipynb
+└── README.md
 
 
 
