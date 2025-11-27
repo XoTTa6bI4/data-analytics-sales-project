@@ -114,6 +114,6 @@ Top-performing examples:
 
 ## 👤 10. Author
 
-**Nikita Polyakov**  
+**Mykyta Poliakov**  
 Data Analytics student | Python | SQL | Visualization  
 GitHub: https://github.com/XoTTa6bl4
